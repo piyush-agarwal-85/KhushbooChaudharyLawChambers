@@ -1,0 +1,6 @@
+{
+  "name": "KC Legal Chambers",
+  "description": "A modern legal practice committed to strategic legal advice, rigorous research and effective representation across diverse areas of law.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
