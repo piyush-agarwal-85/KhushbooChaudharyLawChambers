@@ -36,8 +36,11 @@ export const Footer: React.FC<FooterProps> = ({
             >
               <KCLogo size="md" />
               <div className="flex flex-col">
-                <span className="font-serif tracking-[0.14em] text-sm sm:text-base font-bold text-white uppercase leading-tight group-hover:text-stone-100 transition-colors">
-                  KC LEGAL CHAMBERS
+                <span className="font-serif tracking-[0.10em] text-[11px] sm:text-sm font-bold text-white uppercase leading-tight group-hover:text-stone-100 transition-colors">
+                  KHUSHBOO CHAUDHARY
+                </span>
+                <span className="font-serif tracking-[0.10em] text-[11px] sm:text-sm font-bold text-white uppercase leading-tight group-hover:text-stone-100 transition-colors">
+                  LAW CHAMBERS
                 </span>
                 <span className="text-[9px] sm:text-[10px] font-sans text-stone-400 tracking-wider mt-0.5">
                   Advocates · Legal Research · Advisory
@@ -299,7 +302,7 @@ export const Footer: React.FC<FooterProps> = ({
         {/* Bottom Legal Copyright & Disclaimers */}
         <div className="border-t border-stone-800/80 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] font-sans text-stone-500">
           <div>
-            © 2026 KC Legal Chambers. All rights reserved.
+            © 2026 Khushboo Chaudhary Law Chambers. All rights reserved.
           </div>
 
           <div className="flex items-center gap-4 sm:gap-6 flex-wrap justify-center">

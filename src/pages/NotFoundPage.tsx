@@ -10,7 +10,7 @@ interface NotFoundPageProps {
 
 export const NotFoundPage: React.FC<NotFoundPageProps> = ({ onSelectTab }) => {
   useEffect(() => {
-    document.title = '404 - Page Not Found | KC Legal Chambers';
+    document.title = '404 - Page Not Found | Khushboo Chaudhary Law Chambers';
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }, []);
 

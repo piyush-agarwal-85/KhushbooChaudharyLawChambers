@@ -27,64 +27,64 @@ export const PAGE_CONFIG: Record<
   { title: string; path: string; description: string }
 > = {
   home: {
-    title: 'KC Legal Chambers | Advocates · Legal Research · Advisory',
+    title: 'Advocate Khushboo Chaudhary | Official Website',
     path: '/',
     description:
-      'A modern legal practice committed to strategic legal advice, rigorous research and effective representation across diverse areas of law.',
+      'Official website of Advocate Khushboo Chaudhary, Delhi High Court and Supreme Court advocate offering legal representation, research and advisory across diverse areas of law.',
   },
   about: {
-    title: 'About Us | KC Legal Chambers',
+    title: 'About Us | Khushboo Chaudhary Law Chambers',
     path: '/about',
     description:
-      'Learn about KC Legal Chambers, Advocate Khushboo Chaudhary, our founding principles, and High Court / Supreme Court representation.',
+      'Learn about Khushboo Chaudhary Law Chambers, Advocate Khushboo Chaudhary, our founding principles, and High Court / Supreme Court representation.',
   },
   'practice-areas': {
-    title: 'Practice Areas | KC Legal Chambers',
+    title: 'Practice Areas | Khushboo Chaudhary Law Chambers',
     path: '/practice-areas',
     description:
       'Comprehensive legal solutions across Constitutional Law, Criminal Defense, Civil Litigation, Commercial Law, Human Rights, and Technology & AI Law.',
   },
   'legal-research': {
-    title: 'Legal Research & Advisory | KC Legal Chambers',
+    title: 'Legal Research & Advisory | Khushboo Chaudhary Law Chambers',
     path: '/legal-research',
     description:
       'Rigorous legal research, case law analysis, statutory interpretation, and high-stakes drafting for advocates, corporate counsels, and litigants.',
   },
   insights: {
-    title: 'Legal Insights & Publications | KC Legal Chambers',
+    title: 'Legal Insights & Publications | Khushboo Chaudhary Law Chambers',
     path: '/insights',
     description:
       'In-depth legal commentary, case analyses, landmark judgment breakdowns, and constitutional policy articles.',
   },
   contact: {
-    title: 'Contact Us | KC Legal Chambers',
+    title: 'Contact Us | Khushboo Chaudhary Law Chambers',
     path: '/contact',
     description:
-      'Get in touch with KC Legal Chambers. Chamber No. 346A, Block 1, Lawyers’ Chambers, Delhi High Court, New Delhi.',
+      'Get in touch with Khushboo Chaudhary Law Chambers. Chamber No. 346A, Block 1, Lawyers’ Chambers, Delhi High Court, New Delhi.',
   },
   'privacy-policy': {
-    title: 'Privacy Policy | KC Legal Chambers',
+    title: 'Privacy Policy | Khushboo Chaudhary Law Chambers',
     path: '/privacy-policy',
     description:
-      'Official privacy policy for KC Legal Chambers, outlining data protection, confidential legal communications, and client privacy.',
+      'Official privacy policy for Khushboo Chaudhary Law Chambers, outlining data protection, confidential legal communications, and client privacy.',
   },
   terms: {
-    title: 'Terms of Use | KC Legal Chambers',
+    title: 'Terms of Use | Khushboo Chaudhary Law Chambers',
     path: '/terms',
     description:
-      'Terms and conditions governing the use of the KC Legal Chambers website and services.',
+      'Terms and conditions governing the use of the Khushboo Chaudhary Law Chambers website and services.',
   },
   disclaimer: {
-    title: 'Legal Disclaimer | KC Legal Chambers',
+    title: 'Legal Disclaimer | Khushboo Chaudhary Law Chambers',
     path: '/disclaimer',
     description:
       'Bar Council of India compliance statement and official legal disclaimer.',
   },
   '404': {
-    title: '404 - Page Not Found | KC Legal Chambers',
+    title: '404 - Page Not Found | Khushboo Chaudhary Law Chambers',
     path: '/404',
     description:
-      'The page you are looking for doesn’t exist or may have been moved. Return to KC Legal Chambers home or explore our practice areas.',
+      'The page you are looking for doesn’t exist or may have been moved. Return to Khushboo Chaudhary Law Chambers home or explore our practice areas.',
   },
 };
 

@@ -44,8 +44,11 @@ export const Header: React.FC<HeaderProps> = ({
 
             {/* Chamber Titles */}
             <div className="flex flex-col">
-              <span className="font-serif tracking-[0.14em] text-sm sm:text-base font-bold text-white uppercase leading-tight group-hover:text-stone-100 transition-colors">
-                KC LEGAL CHAMBERS
+              <span className="font-serif tracking-[0.10em] text-[11px] sm:text-sm font-bold text-white uppercase leading-tight group-hover:text-stone-100 transition-colors">
+                KHUSHBOO CHAUDHARY
+              </span>
+              <span className="font-serif tracking-[0.10em] text-[11px] sm:text-sm font-bold text-white uppercase leading-tight group-hover:text-stone-100 transition-colors">
+                LAW CHAMBERS
               </span>
               <span className="text-[9px] sm:text-[10px] font-sans text-stone-400 tracking-wider mt-0.5">
                 Advocates · Legal Research · Advisory

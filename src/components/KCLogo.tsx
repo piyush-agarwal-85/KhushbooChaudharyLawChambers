@@ -35,7 +35,7 @@ export const KCLogo: React.FC<KCLogoProps> = ({
       {showText && (
         <div className={`flex flex-col text-left ${textClassName}`}>
           <span className="font-serif tracking-[0.12em] sm:tracking-[0.16em] text-xs sm:text-sm md:text-[15px] font-bold text-white uppercase leading-tight">
-            KC LEGAL CHAMBERS
+            KHUSHBOO CHAUDHARY LAW CHAMBERS
           </span>
           <span className="text-[9px] sm:text-[10px] font-sans text-stone-400 tracking-wider mt-0.5">
             Advocates · Legal Research · Advisory

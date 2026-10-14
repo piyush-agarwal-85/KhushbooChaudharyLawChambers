@@ -155,11 +155,11 @@ export const HomePage: React.FC<HomePageProps> = ({
                 </span>
               </div>
 
-              {/* Chamber Name */}
+              {/* Chamber Name - Explicit 2 lines */}
               <div className="tracking-tight">
                 <h1 className="font-display text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold tracking-[0.06em] sm:tracking-[0.10em] uppercase leading-tight">
-                  <span className="text-[#c01224] block sm:inline">KHUSHBOO CHAUDHARY</span>{' '}
-                  <span className="text-white">LAW CHAMBERS</span>
+                  <span className="text-[#c01224] block">KHUSHBOO CHAUDHARY</span>
+                  <span className="text-white block mt-1">LAW CHAMBERS</span>
                 </h1>
               </div>
 
